@@ -26,7 +26,7 @@ const Hero = () => {
               SHOP NOW <BiRightArrowAlt className="ml-2 " />
             </Link>
           </div>
-          <div className="md:w-1/2 ml-32 ">
+          <div className="md:w-1/2  ">
             <img src={jacket} alt="jacket" />
           </div>
         </div>
