@@ -4,7 +4,7 @@ const About = () => {
     return (
       <section className="py-10 px-5">
         <h1 className=" font-semibold container mx-auto py-4 text-2xl">About Us</h1>
-        <div className="container mx-auto flex justify-evenly  ">
+        <div className="md:container mx-auto flex justify-evenly  ">
          
           <p className=" text-xl container">
             "My aim is to be an software engineer and bring the next revolution by the end of 2030."<br />
